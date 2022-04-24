@@ -1,0 +1,10 @@
+body{
+    background-color: #151515;
+    color: #EEE;
+    font-family: monospace;
+    font-size: 35px;
+    font-weight: bold;
+    margin: 0px;
+    height: calc(100vh - 5px);
+    font-family: monospace;
+}
